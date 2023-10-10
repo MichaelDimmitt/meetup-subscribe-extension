@@ -30,7 +30,7 @@ None of the graphql examples on the meetup docs have an example of making the re
 
 Lastly, all client applications fail even when using an app authorized with the implicit flow, failing with a cors error due to a misconfiguration server side.  
 
-<!-- 
+<!--
 After more investigation on this project I think the cors error might be a bad server message. I wonder if that cors error is happening because it is using an old oauth consumer as I do not have a pro account but do have old oauth consumer keys. If your graphql request is a little off you will often get a cors error instead of a legit error around your graphql syntax.
 -->
 
