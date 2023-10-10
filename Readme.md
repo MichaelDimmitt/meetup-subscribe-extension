@@ -45,5 +45,9 @@ Due to these constraints, the best way I can think to add auto subscribe functio
 ## Todo:
 - [ ] housekeeping (simplify request boiler plate logic)
 - [ ] get details for events that match a string title regex.
-- [ ] add a button on the meetup website to trigger rsvp to group, rsvp to event by partial string, next 10 or next "all"
+- [ ] add a button on the meetup website to trigger rsvp to
+    1. group
+    2. event by partial string
+    3. next 10 of #1 or #2
+    4. next "all" of #1 or #2
 - [ ] I might just put together a bunch of useful api request examples that I do not use that other people would find helpful. If you want a particular request example open an issue.
